@@ -1,3 +1,3 @@
 file 'motd' do
-  content 'Hello World'
+  content 'hello chef'
 end
